@@ -10,4 +10,6 @@ analyze_growth_stress.py 对比分析酿酒酵母（*Saccharomyces cerevisiae*�
 
 GS_list.txt 酿酒酵母growth genes与stress genes列表  
 
-学名对应.txt 物种学名及其中文俗名和一些说明
+学名对应.txt 物种学名及其中文俗名和一些说明  
+
+work_record_TSS.zip  计算工作的原始记录
