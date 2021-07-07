@@ -1,0 +1,75 @@
+Candidatus Prometheoarchaeum syntrophicum 分离的Lokiarchaeota
+Entamoeba moshkovskii 变形虫（原生动物，肉足纲）
+Escherichia coli  大肠杆菌
+Halodesulfovibrio sp. MK-HDV  和分离的Lokiarchaeota共生的硫化细菌
+Physarum polycephalum 黏菌（原生菌类）
+Plasmodium falciparum 疟原虫（原生动物，孢子虫类）
+Rickettsia prowazekii 普氏立克次氏体（α变形菌，寄生在细胞内）
+Saccharomyces cerevisiae 酿酒酵母
+Trypanosoma brucei 布氏锥虫（原生动物，锥体虫类）
+Methanogenium cariaci 产甲烷菌（古菌）
+Paramecium tetraurelia strain d4-2 草履虫（原生生物，纤毛虫类）
+Leptolyngbyaceae cyanobacterium RM1_1_2 蓝绿球藻的一种
+Phaeodactylum tricornutum 三角褐指藻（单细胞藻类，研究硅藻的模式生物）
+Prototheca wickerhamii 无色单细胞绿藻，线粒体全测序
+Ectocarpus siliculosus 褐藻（多细胞藻类）
+Drosophila melanogaster (fruit fly) 双翅目
+Photinus pyralis (common eastern firefly) 鞘翅目
+Bombyx mori (domestic silkworm)  鳞翅目
+Apis mellifera (honey bee)  膜翅目
+Magicicada septendecula (seventeen-year cicada) 半翅目
+Locusta migratoria (migratory locust) 直翅目
+Ladona fulva (scarce chaser) 蜻蜓目 
+Blattella germanica (German cockroach)  德国大蠊
+Metarhizium acridum  直翅目，一种蚱蜢
+Calopteryx splendens 蜻蜓目
+Acyrthosiphon pisum (pea aphid) 半翅目，豌豆蚜
+Pediculus humanus (human louse)  虱子
+Schizosaccharomyces pombe (fission yeast) 裂殖酵母
+
+Fragilariopsis cylindrus 圆柱拟脆杆藻
+
+Saccharina japonica 海带
+Porphyra umbilicalis (laver) 紫菜
+Chara braunii 轮藻（有根茎叶）
+Saccharomyces kudriavzevii 出芽酵母
+
+Marchantia polymorpha (liverwort)  地钱
+Anthoceros angustus 角苔
+Physcomitrella patens 小立碗藓
+
+
+Selaginella tamariscina 卷柏
+Isoetes engelmannii (Engelmann's quillwort)  水韭
+
+
+Sequoiadendron giganteum 巨杉
+Arabidopsis thaliana (thale cress) 拟南芥
+Oryza sativa (rice) 水稻
+Zea mays  玉米
+Caenorhabditis elegans 秀丽隐杆线虫
+Chlamydomonas reinhardtii 衣藻
+Dictyostelium discoideum 盘基网柄菌
+Hepacivirus C 肝炎病毒
+Mycoplasma pneumoniae 支原体
+Pneumocystis carinii 卡氏孢子囊虫
+Danio rerio (zebrafish) 斑马鱼
+Takifugu rubripes (torafugu)  红鳍东方鲀
+Hydra vulgaris 水螅
+Asterias rubens (European starfish)
+Xenopus laevis (African clawed frog)  非洲爪蟾
+
+Pomacea canaliculata 蜗牛
+Mus musculus (house mouse)
+
+Picea abies (Norway spruce) 挪威云杉
+Gallus gallus domesticus  家鸡
+Malus domestica (apple)
+Pinus taeda (loblolly pine)  火炬松
+
+Amphimedon queenslandica  堡礁海绵
+Mnemiopsis leidyi (sea walnut) 梳状水母
+
+Beroe ovata 肉食性栉水母
+Bos taurus (cattle) 牛
+Rattus norvegicus (Norway rat) 褐家鼠
